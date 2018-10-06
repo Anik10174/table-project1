@@ -1,0 +1,24 @@
+th{
+	    border-width: 1px;
+    border-style: groove;
+    border-color: black;
+    font-size: 16px;
+
+}
+td{
+	    border-width: 1px;
+    border-style: groove;
+    border-color: black;
+}
+table{
+	    border-color: black;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+h1{line-height: 2px;
+}
+
+h4{line-height: 15px;
+}
+
